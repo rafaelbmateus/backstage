@@ -8,3 +8,5 @@ To start the app, run:
 yarn install
 yarn start
 ```
+
+[Talk in DevOpsDays Florianópolis - 12/06/2025](https://docs.google.com/presentation/d/1EBiz-cYYqN9wrDUEX9YYEKlmJmvDeq1NXJLLk7uPm8Q/edit?usp=sharing)
